@@ -1,0 +1,1500 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}    
+
+
+
+#nav-bar{
+    background-color: #0f1111;
+    height: 60px;
+    display: flex;
+}
+
+#nav-logo{
+    background-image: url(amazon\ logo\ 3\ JPEG\ Image.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    height: 60px;
+    width: 134px;
+}
+
+#About-iconleftside{
+    color: white;
+    position: relative;
+    top: 25px;
+    left: 5px;
+}
+
+#one{
+    color: #CCCCCC;
+    position: relative;
+    left: 22px;
+    bottom: 7px;
+    font-size: 12.8px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#two{
+    color: #FFFFFF;
+    position: relative;
+    left: 23px;
+    bottom: 8px;
+    font-size: 14.5px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#small{
+    position: relative;
+    left:38px ;
+    top:11px ;
+    color: #0f1111;
+    background-color: #E6E6E6;
+    width: 53px;
+    height: 38px;
+    border-radius: 4px 0px 0px 4px;
+    padding: 6px;
+}
+       
+#tall{
+    position: relative;
+    left: 34.3px;
+    top: 11.2px;
+    height: 38px;
+    width: 733px;
+    padding: 6px;
+    font-size: 15px;
+}
+
+#magnifying-glass{
+    color: red;
+    background-color: #febd69;
+    height: 38px;
+    width: 45px;
+    position: relative;
+    left: 800px;
+    bottom: 27px;
+    padding: 11px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+#nav-flag{
+    background-image: url(Flag_of_India.svg.webp);
+    background-size:contain ;
+    background-repeat: no-repeat;
+    height: 18px;
+    width: 25px;
+    position: relative;
+    left: 73px;
+    top: 26px;
+}    
+
+#Language{
+    height: 14px;
+    width: 19px;
+    position: relative;
+    left: 79px;
+    top: 25px;
+}
+
+#dominant{
+    color: white;
+    position: relative;
+    left: 78px;
+    top: 24px;
+    font: 14px;
+}   
+
+#down{
+    color: white;
+    position: relative;
+    left: 79px;
+    top: 27px;
+    height: 2px;
+    width: 5px;
+}
+
+#namaste{
+    color: #FFFFFF;
+    position: relative;
+    left: 100px;
+    top: 13px;
+    height: 14px;
+    width: 70px;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#money{
+    color: #FFFFFF;
+    position: relative;
+    left: 26px;
+    top: 24px;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#up{
+    color: white;
+    position: relative;
+    left:30px;
+    top: 27px;
+    height: 2px;
+    width: 5px;
+}
+
+#come{
+    color: #FFFFFF;
+    position: relative;
+    left: 54px;
+    top: 10px;
+    font-family:  system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 14px;
+    width: 59px;
+    font-size: 13px;
+}
+
+#order{
+    color: #FFFFFF;
+    position: relative;
+    left: 54px;
+    top: 12px;
+    height: 25px;
+    width: 59px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+#nav-cart{
+    color: white;
+    position: relative;
+    left: 70px;
+    top: 11px;
+    font-size: xx-large;
+}
+
+#logo{
+    color: white;
+    position: relative;
+    left: 40px;
+    bottom: 23px;
+    font-size: large;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+
+#panelstart{
+    background-color: #222f3d;
+    height: 40px;
+    width: 100%;
+}   
+
+#menu{
+    position: relative;
+    bottom: 29px;
+    left: 18px ;
+    color: white;
+    font-size: large;
+}
+
+#All{
+    position: relative;
+    bottom: 52px;
+    left: 38px ;
+    color: white;
+    height: 12px;
+    width: 24px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    font-size: 15.4px;
+}
+
+#tv{
+    color: white;
+    position: relative;
+    left: 75px;
+    bottom: 65px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#sell{
+    color: white;
+    position: relative;
+    left: 193px;
+    bottom: 83px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#best{
+    color: white;
+    position: relative;
+    left: 234px;
+    bottom: 101px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#deal{
+    color: white;
+    position: relative;
+    left: 324px;
+    bottom: 121px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#phone{
+    color: white;
+    position: relative;
+    left: 414px;
+    bottom: 139px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#device{
+    color: white;
+    position: relative;
+    left: 482px;
+    bottom: 157px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#customer{
+    color: white;
+    position: relative;
+    left: 565px;
+    bottom: 176px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#prime{
+    color: white;
+    position: relative;
+    left: 691px;
+    bottom: 194px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#release{
+    color: white;
+    position: relative;
+    left: 742px;
+    bottom: 211px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#gift{
+    color: white;
+    position: relative;
+    left: 842px;
+    bottom: 230px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#home{
+    color: white;
+    position: relative;
+    left: 917px;
+    bottom: 248px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#big{
+    color: white;
+    position: relative;
+    left: 1139px;
+    bottom: 268px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-left: 6px;
+}
+
+#hard-work{
+    background-image: url(workout\ JPEG\ Image.jpg);
+    background-size: cover;
+    height: 400px;
+    position: relative;
+    bottom: 255px;
+}   
+
+#box1{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    bottom: 290px;
+    left: 30px;
+    border: 2px solid black;
+}   
+
+#image1{
+    background-image: url(knee\ JPEG\ Image.webp);
+    height: 130px;
+    width: 140px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    top: 23px;
+    left: 20px;
+    border: 2px solid black;
+}
+
+#p1{
+    position: relative;
+    left: 23px;
+    top: 130px;
+    
+}
+
+#image2{
+    background-image: url(straps\ JPEG\ Image.jpeg);
+    height: 130px;
+    width: 140px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    left: 180px;
+    bottom: 108px;
+    border: 2px solid black;
+}
+
+#p2{
+    position: relative;
+    left: 39px;
+    top: 130px;
+}
+
+#image3{
+    background-image: url(elbow\ JPEG\ Image.jpeg);
+    height: 130px;
+    width: 140px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    left: 20px;
+    bottom: 65px;
+    border: 2px solid black;
+}
+
+#p3{
+    position: relative;
+    left: 27px;
+    top: 130px;
+}
+
+#image4{
+    background-image: url(belt\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 140px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    left: 180px;
+    bottom: 195px;
+    border: 2px solid black;
+}
+
+#p4{
+    position: relative;
+    left: 10px;
+    top: 130px;
+}
+#power{
+    font-size: 21px;
+    position: relative;
+    left: 56px;
+    top: 10px;
+}
+
+#box2{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    bottom: 690px;
+    left: 430px;
+    border: 2px solid black;
+}
+
+#image5{
+    background-image: url(Weighlifting\ belt\ JPEG\ Image.jpeg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 20px;
+    top: 19px;
+    border: 2px solid black;
+}
+
+#p5{
+    position: relative;
+    left: 10px;
+    top: 132px;
+}
+
+#image6{
+    background-image: url(rod\ JPEG\ Image.jpeg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 185px;
+    bottom: 111px ;
+    border: 2px solid black;
+}
+
+#p6{
+    position: relative;
+    left: 20px;
+    top: 130px;
+}
+
+#image7{
+    background-image: url(dumbell\ JPEG\ Image.jpeg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 22px;
+    bottom: 70px ;
+    border: 2px solid black;
+}
+
+#p7{
+    position: relative;
+    left: 54px;
+    bottom: 65px;
+}
+
+#image8{
+    background-image: url(color\ plates\ WEBP\ File.webp);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 187px;
+    bottom: 217px ;
+    border: 2px solid black;
+}
+
+#p8{
+    position: relative;
+    left: 16px;
+    top: 130px;
+}
+
+#strength{
+    font-size: 21px;
+    position: relative;
+    left: 56px;
+    top: 5px;
+}
+
+#box3{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    bottom: 565px;
+    left: 400px;
+    border: 2px solid black;
+}
+
+#image9{
+    background-image: url(boxing\ bag\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 20px;
+    top: 23px;
+    border: 2px solid black;
+}
+
+#p9{
+    position: relative;
+    left: 20px;
+    top: 130px;
+}
+
+#image10{
+    background-image: url(boxing\ gloves\ WEBP\ File.webp);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 183px;
+    bottom: 107px;
+    border: 2px solid black;
+}
+
+#p10{
+    position: relative;
+    left: 20px;
+    top: 130px;
+}
+
+#image11{
+    background-image: url(boxing\ helmet\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 20px;
+    bottom: 65px;
+    border: 2px solid black;
+}
+
+#p11{
+    position: relative;
+    left: 20px;
+    top: 130px;
+}
+
+#image12{
+    background-image: url(mouth\ guard\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 185px;
+    bottom: 195px;
+    border: 2px solid black;
+}
+
+#p12{
+    position: relative;
+    left: 20px;
+    top: 130px;
+}
+
+#stamina{
+    font-size: 21px;
+    position: relative;
+    left: 80px;
+    top: 5px;
+}
+
+#box4{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    bottom: 500px;
+    right: 401px;
+    border: 2px solid black;
+}
+
+#arm{
+    font-size: 21px;
+    position: relative;
+    left: 50px;
+    top: 5px;
+}
+
+#image13{
+    background-image: url(arm\ wrestling\ table\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 20px;
+    top: 20px;
+    border: 2px solid black;
+}
+
+#p13{
+    position: relative;
+    left: 2px;
+    top: 130px;
+}
+
+#image14{
+    background-image: url(arm\ wrestling\ forearm\ WEBP\ File.webp);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 185px;
+    bottom: 110px;
+    border: 2px solid black;
+}
+
+#p14{
+    position: relative;
+    left: 19px;
+    top: 130px;
+}
+
+#image15{
+    background-image: url(arm\ wrestling\ handle\ WEBP\ File.webp);
+    height: 130px;
+    width: 140px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 20px;
+    bottom: 70px;
+    border: 2px solid black;
+}
+
+#p15{
+    position: relative;
+    left: 19px;
+    top: 130px;
+}
+
+#image16{
+    background-image: url(arm\ wrestling\ hand\ grip\ WEBP\ File.webp);
+    height: 128px;
+    width: 129px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 185px;
+    bottom: 200px;
+    border: 2px solid black;
+}
+
+#p161{
+    position: relative;
+    left: 19px;
+    top: 130px;
+}
+
+#p162{
+    position: relative;
+    left: 30px;
+    top: 130px;
+}
+
+#box5{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    bottom: 900px;
+    left: 5px;
+    border: 2px solid black;
+}
+
+#peace{
+    font-size: 21px;
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+
+#image17{
+    background-image: url(bhagvat\ gita\ book\ JPEG\ Image.jpg);
+    height: 127px;
+    width: 85px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 40px;
+    top: 20px;
+    border: 2px solid black;
+}
+
+#p17{
+    position: relative;
+    left: 26px;
+    top: 130px;
+}
+
+#image18{
+    background-image: url(ramcharitmanas\ book\ JPEG\ Image.jpg);
+    height: 120px;
+    width: 84px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 220px;
+    bottom: 100px;
+    border: 1px solid black;
+}
+
+#p18{
+    position: relative;
+    right: 10px;
+    top: 120px;
+}
+
+#image19{
+    background-image: url(hanuman\ chalisa\ 2\ WEBP\ File.webp);
+    height: 129px;
+    width: 86px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 40px;
+    bottom: 60px;
+    border: 1px solid black;
+}
+
+#p19{
+    position: relative;
+    left: 10px;
+    top: 129px;
+}
+
+#image20{
+    background-image: url(life\ of\ hanuman\ book\ JPEG\ Image.jpeg);
+    height: 127px;
+    width: 84px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 220px;
+    bottom: 190px;
+    border: 1px solid black;
+}
+
+#p20{
+    position: relative;
+    left: 10px;
+    top: 129px;
+}
+
+#box6{
+    background-color: #FFFFFF;
+    height: 400px;
+    width: 350px;
+    position: relative;
+    bottom: 1300px;
+    left: 410px;
+    border: 2px solid black;
+}
+
+#puran{
+    font-size: 21px;
+    position: relative;
+    left: 100px;
+    top: 5px;
+}
+
+#image21{
+    background-image: url(shiv\ puran\ AVIF\ File.avif);
+    height: 113px;
+    width: 80px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    border: 1px solid black;
+}
+
+#p21{
+    position: relative;
+    left: 6px;
+    top: 113px;
+}
+
+#image22{
+    background-image: url(vishnu\ puran\ WEBP\ File.webp);
+    height: 109px;
+    width: 70px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 230px;
+    bottom: 80px;
+    border: 1px solid black;
+}
+
+#p22{
+    position: relative;
+    left: 13px;
+    top: 113px;
+}
+
+#image23{
+    background-image: url(varah\ puran\ 2\ JPEG\ Image.jpg);
+    height: 118px;
+    width: 78px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 43px;
+    bottom: 35px;
+    border: 1px solid black;
+}
+
+#p23{
+    position: relative;
+    left: 18px;
+    top: 115px;
+}
+
+#image24{
+    background-image: url(bhavishya\ puran\ WEBP\ File.webp);
+    height: 110px;
+    width: 78px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 229px;
+    bottom: 140px;
+    border: 1px solid black;
+}
+
+#p24{
+    position: relative;
+    left: 4px;
+    top: 115px;
+}
+
+#box7{
+    background-color: #FFFFFF;
+    height: 290px;
+    width: 1150px;
+    position: relative;
+    bottom: 1100px;
+    right: 400px;
+    border: 2px solid black;
+}
+
+#food{
+    font-size: 24px;
+    position: relative;
+    left: 450px;
+    top: 13px;
+}
+
+#image25{
+    background-image: url(atta\ JPEG\ Image.jpg);
+    height: 170px;
+    width: 168px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 14px;
+    top: 30px;
+    
+}
+
+#p25{
+    position: relative;
+    left: 59px;
+    top: 155px;
+}
+
+#image26{
+    background-image: url(rice\ WEBP\ File.webp);
+    height: 140px;
+    width: 138px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 214px;
+    bottom: 130px;
+}
+
+#p26{
+    position: relative;
+    left: 50px;
+    top: 140px;
+}
+
+#image27{
+    background-image: url(dal\ JPEG\ Image.jpg);
+    height: 140px;
+    width: 138px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 420px;
+    bottom: 270px;
+}
+
+#p27{
+    position: relative;
+    left: 35px;
+    top: 140px;
+}
+
+#image28{
+    background-image: url(fortune\ oil\ JPEG\ Image.jpg);
+    height: 150px;
+    width: 158px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 580px;
+    bottom: 410px;
+}
+
+#p28{
+    position: relative;
+    left: 38px;
+    top: 142px;
+}
+
+#image29{
+    background-image: url(ghee\ WEBP\ File.webp);
+    height: 140px;
+    width: 148px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 780px;
+    bottom: 550px;
+}
+
+#p29{
+    position: relative;
+    left: 38px;
+    top: 142px;
+}
+
+#image30{
+    background-image: url(rajma\ WEBP\ File.webp);
+    height: 140px;
+    width: 148px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 960px;
+    bottom: 690px;
+}
+
+#p30{
+    position: relative;
+    left: 48px;
+    top: 138px;
+}
+
+#box8{
+    background-color: #FFFFFF;
+    height: 290px;
+    width: 1150px;
+    position: relative;
+    bottom: 1000px;
+    right: 400px;
+    border: 2px solid black;
+}
+
+#female{
+    font-size: 24px;
+    position: relative;
+    left: 450px;
+    top: 13px;
+}
+
+
+#image31{
+    background-image: url(himalya\ cream\ WEBP\ File.webp);
+    height: 220px;
+    width: 228px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 10px;
+    top: 40px;
+}
+
+#p31{
+    position: relative;
+    left: 50px;
+    top: 138px;
+}
+
+#image32{
+    background-image: url(lipstick\ WEBP\ File.webp);
+    height: 200px;
+    width: 208px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 230px;
+    bottom: 200px;
+}
+
+#p32{
+    position: relative;
+    left: 70px;
+    top: 178px;
+}
+
+#image33{
+    background-image: url(hair\ oil\ WEBP\ File.webp);
+    height: 150px;
+    width: 158px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 490px;
+    bottom: 370px;
+}
+
+#p33{
+    position: relative;
+    left: 30px;
+    top: 158px;
+}
+
+#image34{
+    background-image: url(clinique\ AVIF\ File.avif);
+    height: 170px;
+    width: 178px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 670px;
+    bottom: 520px;
+}
+
+#p34{
+    position: relative;
+    left: 35px;
+    top: 138px;
+}
+
+#image35{
+    background-image: url(eyebrow\ JPEG\ Image.jpg);
+    height: 150px;
+    width: 158px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 830px;
+    bottom: 700px;
+}
+
+#p35{
+    position: relative;
+    left: 44px;
+    top: 148px;
+}
+
+#image36{
+    background-image: url(eyeliner\ JPEG\ Image.jpg);
+    height: 150px;
+    width: 158px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 980px;
+    bottom: 850px;
+}
+
+#p36{
+    position: relative;
+    left: 47px;
+    top: 148px;
+}
+
+#box9{
+    background-color: #FFFFFF;
+    height: 290px;
+    width: 1150px;
+    position: relative;
+    bottom: 900px;
+    right: 400px;
+    border: 2px solid black;
+}
+
+#luxury{
+    font-size: 24px;
+    position: relative;
+    left: 470px;
+    top: 13px;
+}
+
+#image37{
+    background-image: url(i\ phone\ JPEG\ Image.jpg);
+    height: 150px;
+    width: 158px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 49px;
+    top: 30px;
+}
+
+#p37{
+    position: relative;
+    left: 37px;
+    top: 152px;
+}
+
+#image38{
+    background-image: url(macbook\ WEBP\ File.webp);
+    height: 150px;
+    width: 158px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 230px;
+    bottom: 100px;
+}
+
+#p38{
+    position: relative;
+    left: 22px;
+    top: 122px;
+}
+
+#image39{
+    background-image: url(watch\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 138px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 440px;
+    bottom: 260px;
+}
+
+#p39{
+    position: relative;
+    left: 25px;
+    top: 137px;
+}
+
+#image40{
+    background-image: url(bag\ WEBP\ File.webp);
+    height: 130px;
+    width: 138px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 600px;
+    bottom: 380px;
+}
+
+#p40{
+    position: relative;
+    left: 50px;
+    top: 127px;
+}
+
+#image41{
+    background-image: url(shoes\ JPEG\ Image.jpg);
+    height: 130px;
+    width: 138px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 780px;
+    bottom: 480px;
+}
+
+#p41{
+    position: relative;
+    left: 50px;
+    top: 120px;
+}
+
+#image42{
+    background-image: url(pen\ 2\ JPEG\ Image.jpeg);
+    height: 130px;
+    width: 138px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: relative;
+    left: 1000px;
+    bottom: 630px;
+}
+
+#p42{
+    position: relative;
+    left: 10px;
+    top: 140px;
+}
+
+#end{
+    background-color: #37475a;
+    height: 50px;
+    width: 1150px;
+    position: relative;
+    top: 240px;
+    right: 1000px;
+}
+
+#p43{
+    color: #CCCCCC;
+    position: relative;
+    left: 500px;
+    top: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+}
+
+#end2{
+    background-color: #232f3e;
+    height: 460px;
+    width: 1150px;
+    position: relative;
+    right: 1000px;
+    top: 240px;
+}
+
+#a1{
+    color: #CCCCCC;
+    position: relative;
+    left: 130px;
+    top: 100px;
+    padding-top: 5px;
+}
+
+#b1{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+#b2{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#b3{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#b4{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#b5{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#a2{
+    color: #CCCCCC;
+    position: relative;
+    left: 330px;
+    bottom: 20px;
+    padding-top: 5px;
+}
+
+#b6{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+#b7{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#b8{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#b9{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px; 
+}
+
+#a3{
+    color: #CCCCCC;
+    position: relative;
+    left: 530px;
+    bottom: 120px;
+    padding-top: 5px;
+}
+
+#b10{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+#b11{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b12{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b13{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b14{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b15{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b16{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b17{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b18{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#a4{
+    color: #CCCCCC;
+    position: relative;
+    left: 830px;
+    bottom: 340px;
+    padding-top: 5px;
+}
+
+#b19{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 5px;
+}
+
+#b20{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b21{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b22{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b23{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b24{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+
+#b25{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+    
+
+
+
+
+
+
+
